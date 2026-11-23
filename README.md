@@ -33,7 +33,7 @@ I'm a student building my foundations in programming, data and AI. I enjoy learn
 
 ## 🚀 My AI engineering learning roadmap
 
-I'm following the [CampusX 100 Days of AI Engineering](https://ai-engineer-roadmap-2026.vercel.app/100-days/) accelerated track. The topics below are **learning goals**, not a claim that I've completed or mastered them all.
+ The topics below are **learning goals**, not a claim that I've completed or mastered them all.
 
 | Area | Topics on my roadmap |
 | --- | --- |
@@ -44,8 +44,7 @@ I'm following the [CampusX 100 Days of AI Engineering](https://ai-engineer-roadm
 | 🤖 **AI agents** | LangGraph, tools, planning, MCP, memory, context engineering, multi-agent systems, evaluation and safety |
 | 🚢 **Production** | AI system design, deployment, CI/CD, monitoring, scaling, model serving, fine-tuning and security |
 
-<details>
-<summary><b>📍 Explore the complete accelerated roadmap topics</b></summary>
+
 
 ### 1. LLM fundamentals
 - LLM behavior and next-token prediction; tokens, context and latency
